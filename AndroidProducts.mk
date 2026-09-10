@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_AcerOne8T4-82L.mk
+    $(LOCAL_DIR)/twrp_AcerOne8T4_82L.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_AcerOne8T4-82L-eng
+    twrp_AcerOne8T4_82L-eng
